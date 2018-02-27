@@ -1,0 +1,7 @@
+#Thu Jan 04 08:41:17 CST 2018
+base.0=E\:\\myAndroid\\http\\JPushExample(809176)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8315ceb97bb05beda281cdf2a645c1a9018af45e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\myAndroid\\http\\JPushExample(809176)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_145187c835ee48746d7ac388c7352b9393b30233\\classes.dex
+base.1=E\:\\myAndroid\\http\\JPushExample(809176)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_145187c835ee48746d7ac388c7352b9393b30233
+file.0=E\:\\myAndroid\\http\\JPushExample(809176)\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8315ceb97bb05beda281cdf2a645c1a9018af45e\\classes.dex

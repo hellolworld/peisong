@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="index_title">北极熊配送端</string>
+    <string name="receiver_money">今日代收金额</string>
+    <string name="receiver_ticket">今日代收票</string>
+</resources>

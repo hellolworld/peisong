@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="online_order_title">今日配送</string>
+    <string name="online_order_detail_title">订单明细</string>
+    <string name="online_order_back">返回</string>
+
+    <string name="online_order_detail_goodsInfo">商品详情</string>
+    <string name="online_order_complete">完成</string>
+</resources>
